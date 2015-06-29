@@ -1,0 +1,12 @@
+body {
+	background: #DB2780;
+	font-family: Helvetica; 
+	padding: 25px;
+	background-image: url("../img/mamaison.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-size: 3em;
+}
